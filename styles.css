@@ -50,3 +50,13 @@ button.clear {
   color: #fff;
   font-weight: bold;
 }
+body {
+  min-height: 100vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Beautiful gradient background */
+  background: linear-gradient(135deg, #43cea2 0%, #185a9d 100%);
+  font-family: 'Segoe UI', sans-serif;
+}
