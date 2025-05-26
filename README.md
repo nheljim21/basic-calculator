@@ -15,7 +15,8 @@ A simple calculator web app built with plain HTML, CSS, and JavaScript. This pro
 
 ## Screenshots
 
-![Calculator Screenshot](screenshot.png) <!-- Add a screenshot file if available -->
+![Calculator Screenshot](![Basic Calculator](https://github.com/user-attachments/assets/600ca071-0615-43b2-b099-eb019842b37f)
+) <!-- Add a screenshot file if available -->
 
 ## Getting Started
 
