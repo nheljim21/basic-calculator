@@ -13,7 +13,7 @@ A simple calculator web app built with plain HTML, CSS, and JavaScript. This pro
 
 [View Live on GitHub Pages](https://nheljim21.github.io/project2/) <!-- Replace # with your actual GitHub Pages URL once deployed -->
 
-## Screenshots
+## Screenshot
 
 ![Calculator Screenshot](https://github.com/user-attachments/assets/81227b6a-3f84-47f9-ab30-641600405389
 )
