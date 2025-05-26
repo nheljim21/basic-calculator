@@ -11,7 +11,7 @@ A simple calculator web app built with plain HTML, CSS, and JavaScript. This pro
 
 ## Demo
 
-[View Live on GitHub Pages](nheljim21.github.io/project2/) <!-- Replace # with your actual GitHub Pages URL once deployed -->
+[View Live on GitHub Pages](https://nheljim21.github.io/project2/) <!-- Replace # with your actual GitHub Pages URL once deployed -->
 
 ## Screenshots
 
