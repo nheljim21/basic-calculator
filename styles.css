@@ -51,12 +51,6 @@ button.clear {
   font-weight: bold;
 }
 body {
+  background: radial-gradient(circle at 20% 20%, #f9d423 0%, #ff4e50 100%) no-repeat;
   min-height: 100vh;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  /* Beautiful gradient background */
-  background: linear-gradient(135deg, #43cea2 0%, #185a9d 100%);
-  font-family: 'Segoe UI', sans-serif;
 }
