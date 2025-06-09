@@ -12,7 +12,7 @@ A simple calculator web app built with plain HTML, CSS, and JavaScript. This pro
 
 ## Demo
 
-[View Live on GitHub Pages](https://nheljim21.github.io/project2/) <!-- Replace # with your actual GitHub Pages URL once deployed -->
+[View Live on GitHub Pages](https://nheljim21.github.io/basic-calculator/) <!-- Replace # with your actual GitHub Pages URL once deployed -->
 
 ## Screenshot
 
@@ -63,5 +63,3 @@ Feel free to enhance this calculator by adding:
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-**Made with ❤️ for your portfolio!**
